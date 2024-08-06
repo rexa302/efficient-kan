@@ -1,4 +1,4 @@
-# An Efficient Implementation of Kolmogorov-Arnold Network
+# An Efficient of Kolmogorov-Arnold Network
 
 This repository contains an efficient implementation of Kolmogorov-Arnold Network (KAN).
 The original implementation of KAN is available [here](https://github.com/KindXiaoming/pykan).
